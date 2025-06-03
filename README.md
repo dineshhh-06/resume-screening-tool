@@ -1,4 +1,4 @@
-# 🧠 AI-Powered Resume Screening Tool
+# 🧠Resume Screening Tool
 
 A **Streamlit web app** that intelligently screens multiple PDF resumes against a job description using advanced **Natural Language Processing (NLP)** techniques. This tool provides **match scores**, identifies **key strengths and missing skills**, and delivers **actionable feedback** for each candidate.
 
