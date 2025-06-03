@@ -1,0 +1,40 @@
+Job Title: Python Developer
+
+Location: Remote
+
+Company: Tech Solutions Inc.
+
+About Us:
+Tech Solutions Inc. is a fast-growing technology company specializing in innovative software solutions for the financial sector. We foster a collaborative environment and are looking for a talented Python Developer to join our dynamic team.
+
+Job Summary:
+We are seeking a motivated Python Developer with 2-4 years of experience to design, develop, test, and maintain backend services and APIs for our core platform. The ideal candidate is proficient in Python, familiar with web frameworks like Django or Flask, experienced with databases, and passionate about writing clean, efficient code.
+
+Key Responsibilities:
+   Design, build, and maintain efficient, reusable, and reliable Python code.
+   Develop and integrate backend APIs and services.
+   Collaborate with front-end developers, product managers, and other stakeholders to deliver high-quality software solutions.
+   Implement security and data protection measures.
+   Optimize applications for maximum speed and scalability.
+   Write unit and integration tests to ensure code quality.
+   Troubleshoot, debug, and upgrade existing systems.
+   Participate in code reviews and contribute to team knowledge sharing.
+
+Required Skills & Qualifications:
+   Proven experience as a Python Developer (2-4 years).
+   Strong proficiency in Python and its standard libraries.
+   Experience with at least one Python web framework (e.g., Django, Flask, FastAPI).
+   Familiarity with ORM (Object Relational Mapper) libraries.
+   Experience working with relational databases (e.g., PostgreSQL, MySQL) and writing SQL queries.
+   Understanding of fundamental design principles behind scalable applications.
+   Proficient understanding of code versioning tools, such as Git.
+   Good problem-solving skills and attention to detail.
+   Bachelor’s degree in Computer Science, Engineering, or a related field, or equivalent practical experience.
+
+Preferred Skills:
+   Experience with cloud platforms (AWS, Azure, or GCP).
+   Knowledge of containerization technologies (Docker, Kubernetes).
+   Familiarity with message queues (e.g., RabbitMQ, Kafka).
+   Experience with NoSQL databases (e.g., MongoDB, Redis).
+   Understanding of CI/CD pipelines.
+
