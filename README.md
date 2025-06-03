@@ -1,7 +1,3 @@
-Here's a clean, professional, and well-formatted `README.md` for your **AI-Powered Resume Screening Tool**:
-
----
-
 # 🧠 AI-Powered Resume Screening Tool
 
 A **Streamlit web app** that intelligently screens multiple PDF resumes against a job description using advanced **Natural Language Processing (NLP)** techniques. This tool provides **match scores**, identifies **key strengths and missing skills**, and delivers **actionable feedback** for each candidate.
